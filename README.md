@@ -10,5 +10,5 @@ https://ecohack.te-st.ru/
 
 https://ecohack.te-st.ru/giftcrossing/ ) 
 
-Задачи смотрите в Issues.
+Задачи смотрите в Issues (https://github.com/granin/giftcrossing/issues)
 
